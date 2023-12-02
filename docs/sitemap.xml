@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://fdd.kawayi.moe/posts/</loc>
+    <loc>https://fdd.kawayi.moe/posts/</loc>
     <lastmod>2023-12-02T19:04:26+08:00</lastmod>
   </url><url>
-    <loc>http://fdd.kawayi.moe/tags/</loc>
+    <loc>https://fdd.kawayi.moe/tags/</loc>
     <lastmod>2023-12-02T19:04:26+08:00</lastmod>
   </url><url>
-    <loc>http://fdd.kawayi.moe/</loc>
+    <loc>https://fdd.kawayi.moe/</loc>
     <lastmod>2023-12-02T19:04:26+08:00</lastmod>
   </url><url>
-    <loc>http://fdd.kawayi.moe/posts/2023-dec/%E8%AE%A9%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%AD%A6%E7%94%9F%E8%B5%B0%E5%90%91/</loc>
+    <loc>https://fdd.kawayi.moe/posts/2023-dec/%E8%AE%A9%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%AD%A6%E7%94%9F%E8%B5%B0%E5%90%91/</loc>
     <lastmod>2023-12-02T19:04:26+08:00</lastmod>
   </url><url>
-    <loc>http://fdd.kawayi.moe/tags/%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://fdd.kawayi.moe/tags/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2023-12-02T19:04:26+08:00</lastmod>
   </url><url>
-    <loc>http://fdd.kawayi.moe/categories/</loc>
+    <loc>https://fdd.kawayi.moe/categories/</loc>
   </url><url>
-    <loc>http://fdd.kawayi.moe/page/</loc>
+    <loc>https://fdd.kawayi.moe/page/</loc>
   </url><url>
-    <loc>http://fdd.kawayi.moe/page/about/</loc>
+    <loc>https://fdd.kawayi.moe/page/about/</loc>
   </url>
 </urlset>
