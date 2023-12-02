@@ -1,4 +1,4 @@
-baseurl = "http://fdd.kawayi.moe"
+baseurl = "https://fdd.kawayi.moe"
 DefaultContentLanguage = "zh-cn"
 title = "反到底"
 theme = "beautifulhugo"
