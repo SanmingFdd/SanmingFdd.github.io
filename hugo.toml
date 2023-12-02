@@ -3,6 +3,8 @@ DefaultContentLanguage = "zh-cn"
 title = "反到底"
 theme = "beautifulhugo"
 
+publishDir = "docs"
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "¡反到底在行动!"
