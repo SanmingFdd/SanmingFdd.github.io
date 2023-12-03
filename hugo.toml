@@ -6,7 +6,7 @@ theme = "beautifulhugo"
 publishDir = "docs"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "反到底online"
   subtitle = "¡反到底在行动!"
   mainSections = ["post","posts"]
   logo = "mstile-150x150.png" # Expecting square dimensions
